@@ -22,4 +22,6 @@ function dec(n){
   return n-1
 }
 
-function make
+function makeInet(n){
+  return 
+}
