@@ -23,5 +23,5 @@ function dec(n){
 }
 
 function makeInet(n){
-  return 
+  return parseInt(n,10)
 }
